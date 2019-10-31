@@ -17,6 +17,7 @@ public class DebugCalculator {
 		System.out.println("result3:" + result3);
 		int result4 = CalculatorUtil.factorial(5);
 		System.out.println("result4 :" + result4);
+		System.out.println("JP :" + result4);
 
 	}
 }
